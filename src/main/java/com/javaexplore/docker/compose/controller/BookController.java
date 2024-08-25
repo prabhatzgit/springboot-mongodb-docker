@@ -1,8 +1,7 @@
-package com.javatechie.docker.compose.controller;
+package com.javaexplore.docker.compose.controller;
 
-import com.javatechie.docker.compose.dao.BookRepository;
-import com.javatechie.docker.compose.model.Book;
-import com.javatechie.docker.compose.service.BookService;
+import com.javaexplore.docker.compose.model.Book;
+import com.javaexplore.docker.compose.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

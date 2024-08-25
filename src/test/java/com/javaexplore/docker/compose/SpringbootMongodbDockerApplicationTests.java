@@ -1,4 +1,4 @@
-package com.javatechie.docker.compose;
+package com.javaexplore.docker.compose;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -39,9 +39,9 @@ docker rm <containerId>
 ```yaml
 version: "3"
 services:
-  javatechiemongodb:
+  javaexploremongodb:
     image: mongo:latest
-    container_name: "javatechiemongodb"
+    container_name: "javaexploremongodb"
     ports:
       - 27017:27017
   springboot-mongodb:
@@ -50,7 +50,7 @@ services:
     ports:
       - 8080:8080
     links:
-      - javatechiemongodb
+      - javaexploremongodb
 ```
 - [x] navigate to resources folder:
 ```

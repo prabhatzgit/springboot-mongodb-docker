@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: Book
+      host: javaexploremongodb
+      port: 27017

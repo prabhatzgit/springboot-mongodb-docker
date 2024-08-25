@@ -1,6 +1,6 @@
-package com.javatechie.docker.compose.service;
+package com.javaexplore.docker.compose.service;
 
-import com.javatechie.docker.compose.model.Book;
+import com.javaexplore.docker.compose.model.Book;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
