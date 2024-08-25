@@ -2,5 +2,5 @@ spring:
   data:
     mongodb:
       database: Book
-      host: javatechiemongodb
+      host: javaexploremongodb
       port: 27017
